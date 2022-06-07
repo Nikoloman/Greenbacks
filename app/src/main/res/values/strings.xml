@@ -11,9 +11,12 @@
     //Nuevo movimiento
     <string name="primer_balance">Balance actual: </string>
     <string name="segundo_balance">Balance final: </string>
+    <string name="tipo">Tipo de movimiento</string>
+    <string name="fecha_movimiento">Fecha del movimiento</string>
     <string name="ingreso">Ingreso</string>
     <string name="egreso">Egreso</string>
     <string name="cantidad">Cantidad</string>
+    <string name="notas">Notas:</string>
     <string name="ingresar">Ingresar</string>
 
     //Divisas
