@@ -32,7 +32,7 @@
             android:id="@+id/rdbtn_ingreso"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
-            android:text="@string/ingreso"
+            android:text="@string/income"
             android:textSize="16sp" />
 
         <RadioButton
@@ -40,7 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
-            android:text="@string/egreso"
+            android:text="@string/outcome"
             android:textSize="16sp" />
     </RadioGroup>
 
@@ -51,7 +51,7 @@
         android:layout_marginTop="20dp"
         android:ems="10"
         android:gravity="center"
-        android:hint="@string/cantidad"
+        android:hint="@string/amount"
         android:inputType="numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:onClick="Movimiento"
-        android:text="@string/ingresar"
+        android:text="@string/register"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txt_balance2" />

@@ -1,24 +1,25 @@
 <resources>
     <string name="app_name">Greenbacks</string>
 
-    //Main
+    <!-- - - - - - - - - Spanish - - - - - - - - -->
+    <!--Main-->
     <string name="balance">Balance</string>
-    <string name="reinicio">Reiniciar balance</string>
-    <string name="gasto">Dinero gastado</string>
-    <string name="dinero">$1,000.00</string>
-    <string name="Nuevo_movimiento">Nuevo movimiento</string>
+    <string name="reset">Reset balance</string>
+    <string name="spent">Spent money</string>
+    <string name="money">$1,000.00</string>
+    <string name="new_movement">New movement</string>
 
-    //Nuevo movimiento
-    <string name="primer_balance">Balance actual: </string>
-    <string name="segundo_balance">Balance final: </string>
-    <string name="tipo">Tipo de movimiento</string>
-    <string name="fecha_movimiento">Fecha del movimiento</string>
-    <string name="ingreso">Ingreso</string>
-    <string name="egreso">Egreso</string>
-    <string name="cantidad">Cantidad</string>
-    <string name="notas">Notas:</string>
-    <string name="ingresar">Ingresar</string>
+    <!--Nuevo movimiento-->
+    <string name="first_balance">Current balance: </string>
+    <string name="second_balance">Final balance: </string>
+    <string name="type">Type of movement</string>
+    <string name="date_movement">Date of movement</string>
+    <string name="income">Income</string>
+    <string name="outcome">Outcome</string>
+    <string name="amount">Amount</string>
+    <string name="notes">Notes:</string>
+    <string name="register">Register</string>
 
-    //Divisas
-    <string name="pesos_mexicanos">MXN</string>
+    <!--Divisas-->
+    <string name="mexican_peso">MXN</string>
 </resources>
